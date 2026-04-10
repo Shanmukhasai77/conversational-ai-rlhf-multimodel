@@ -1,0 +1,26 @@
+{
+    "name": "conversational-ai-rlhf-multimodel",
+    "version": "1.0.0",
+    "description": "Real-time NLP prompt analyzer powered by RLHF - supports Claude, Gemini, and Groq with zero npm dependencies",
+    "main": "server.js",
+    "scripts": {
+          "start": "node server.js",
+          "dev": "node server.js"
+    },
+    "keywords": [
+          "rlhf",
+          "nlp",
+          "prompt-engineering",
+          "gemini",
+          "claude",
+          "groq",
+          "conversational-ai",
+          "machine-learning"
+    ],
+    "author": "",
+    "license": "MIT",
+    "engines": {
+          "node": ">=18.0.0"
+    },
+    "dependencies": {}
+}
