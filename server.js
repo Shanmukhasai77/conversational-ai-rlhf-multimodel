@@ -31,8 +31,8 @@ try {
 // ── API Keys ──────────────────────────────────────────
 const KEYS = {
   claude: process.env.ANTHROPIC_API_KEY || '',
-  gemini: process.env.GEMINI_API_KEY    || 'AIzaSyBALPPe4X3nrvgGPS5vgKymAiYX_uamRf4',
-  groq:   process.env.GROQ_API_KEY      || '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',
+  gemini: process.env.GEMINI_API_KEY    || '',
+  groq:   process.env.GROQ_API_KEY      || '',
 };
 
 const MIME = {
